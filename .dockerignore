@@ -1,0 +1,5 @@
+venv
+Dockerfile
+tasks.db
+.idea
+misc
